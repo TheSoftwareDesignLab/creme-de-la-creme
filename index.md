@@ -3,7 +3,7 @@
 
 Mobile apps are distributed via online markets allowing practitioners to reach users worldwide; on the other side, users select what apps are more suitable for their preferences from a large set of apps offering similar features and capabilities. To facilitate that selection process, the distribution markets have different mechanisms, such as comments, ratings, and top-listed apps, including a curated list. As it is well known, apps stores metadata can provide insights for new, popular features or fixing existing bugs, as reported in previous works. However, to the best of our knowledge, app store data have not been used to identify possible predominant characteristics of successful apps using as a reference the aforementioned top lists. Thus, in this paper, we present a study that analyzes the metadata of apps belonging to Google Play top lists during 30 weeks in 4 countries to distill features of successful apps. Unfortunately, our results suggest that apps store metadata from top list apps do not provide enough information to identify those features.
 
-__In this repository, you can find all notebooks used to perform this analysis: [Crème de la crème repository](https://github.com/cremedelacremetop/cremedelacreme/tree/master)__
+__In this repository, you can find all notebooks used to perform this analysis: [Crème de la crème repository](https://github.com/TheSoftwareDesignLab/creme-de-la-creme/tree/code)__
 
 ## Research questions and main highlights 
 Here you can find the main highlights of each RQs, including some results for not imputed and imputed data.
