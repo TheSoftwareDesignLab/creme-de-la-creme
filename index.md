@@ -70,9 +70,9 @@ After analyzing the dataset in general, we grouped it by countries to found whet
 
 In addition, the predominant values for the dataset with imputations is the same:
 
-- Content Rating, grouped by country, for dataset with LOCF imputation: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_content_rating_country.html)
+- Content Rating, grouped by country, for dataset with LOCF imputation: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_content_rating_country.html)
 
-- Content Rating, grouped by country, for dataset with MFO imputation: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_content_rating_country.html)
+- Content Rating, grouped by country, for dataset with MFO imputation: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_content_rating_country.html)
 
 ##### Top-lists
 
@@ -97,15 +97,15 @@ Additionally, we found the same predominant content rating when using the datase
 
 *Note: It's important to note that, for the datasets with imputations, we had to remove the information related with Colombia and Editors' Choice for the analysis related with top-lists. We had to remove that data because the data is missing for more than three weeks.*
 
-- Content Rating, grouped by top, for dataset with LOCF imputation, without Colombia: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_content_rating_top_co.html)
+- Content Rating, grouped by top, for dataset with LOCF imputation, without Colombia: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_content_rating_top_co.html)
 
-- Content Rating, grouped by top, for dataset with LOCF imputation, without Editors' Choice: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_content_rating_top_ec.html)
+- Content Rating, grouped by top, for dataset with LOCF imputation, without Editors' Choice: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_content_rating_top_ec.html)
 
 
 
-- Content Rating, grouped by top, for dataset with MFO imputation, without Colombia: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_content_rating_top_co.html)
+- Content Rating, grouped by top, for dataset with MFO imputation, without Colombia: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_content_rating_top_co.html)
 
-- Content Rating, grouped by top, for dataset with MFO imputation, without Editors' Choice: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_content_rating_top_ec.html)
+- Content Rating, grouped by top, for dataset with MFO imputation, without Editors' Choice: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_content_rating_top_ec.html)
 
 
 In conclusion, no matter if we are analyzing Top Free, Top selling or Editor choice, the predominant content rating is _Everyone_.
@@ -132,15 +132,15 @@ However, when analyzing the dataset with imputations as can be observed here:
 
 *Note: It's important to note that, for the datasets with imputations, we had to remove the information related with Colombia and Editors' Choice for the analysis related with top-lists. We had to remove that data because the data is missing for more than three weeks.*
 
-- Content Rating, grouped by country and top, for dataset with LOCF imputation, without Colombia: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_content_rating_group_co.html)
+- Content Rating, grouped by country and top, for dataset with LOCF imputation, without Colombia: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_content_rating_group_co.html)
 
-- Content Rating, grouped by country and top, for dataset with LOCF imputation, without Editors' Choice: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_content_rating_group_ec.html)
+- Content Rating, grouped by country and top, for dataset with LOCF imputation, without Editors' Choice: [Content Rating LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_content_rating_group_ec.html)
 
 
 
-- Content Rating, grouped by country and top, for dataset with MFO imputation, without Colombia: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_content_rating_group_co.html)
+- Content Rating, grouped by country and top, for dataset with MFO imputation, without Colombia: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_content_rating_group_co.html)
 
-- Content Rating, grouped by country and top, for dataset with MFO imputation, without Editors' Choice: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_content_rating_group_ec.html)
+- Content Rating, grouped by country and top, for dataset with MFO imputation, without Editors' Choice: [Content Rating MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_content_rating_group_ec.html)
 
 
 In consequence, even when the behavior is the same for the rest of the groups, the group for Colombia and Editor choice is missing, in consequence, we cannot conclude that _Everyone_, _USK:All Ages_ and _All Ages_ are the predominant for all groups.
@@ -179,9 +179,9 @@ The following figure depicts Android Version grouped by country:
  
  However, all countries have the same predominant version, _Ice Cream Sandwich and up_. Similarly, when using the datasets with imputations, we didn't find another predominant version, as can be found here:
  
- - Android Version, grouped by country, for dataset with LOCF imputation: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_android_version_country.html)
+ - Android Version, grouped by country, for dataset with LOCF imputation: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_android_version_country.html)
 
-- Android Version, grouped by country, for dataset with MFO imputation: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_android_version_country.html)
+- Android Version, grouped by country, for dataset with MFO imputation: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_android_version_country.html)
 
 ##### Top-lists
 
@@ -205,15 +205,15 @@ In the same way, datasets with imputations keep the same prevalent android versi
 
 *Note: It's important to note that, for the datasets with imputations, we had to remove the information related with Colombia and Editors' Choice for the analysis related with top-lists. We had to remove that data because the data is missing for more than three weeks.*
 
- - Android Version, grouped by top, for dataset with LOCF imputation, without Colombia: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_android_version_top_co.html)
+ - Android Version, grouped by top, for dataset with LOCF imputation, without Colombia: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_android_version_top_co.html)
  
-- Android Version, grouped by top, for dataset with LOCF imputation, without Editors' Choice: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_android_version_top_ec.html)
+- Android Version, grouped by top, for dataset with LOCF imputation, without Editors' Choice: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_android_version_top_ec.html)
 
 
 
-- Android Version, grouped by top, for dataset with MFO imputation, without Colombia: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_android_version_top_co.html)
+- Android Version, grouped by top, for dataset with MFO imputation, without Colombia: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_android_version_top_co.html)
 
-- Android Version, grouped by top, for dataset with MFO imputation, without Editors' Choice: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_android_version_top_ec.html)
+- Android Version, grouped by top, for dataset with MFO imputation, without Editors' Choice: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_android_version_top_ec.html)
 
 ##### Country and Top-lists
 
@@ -238,15 +238,15 @@ In addition, when we used the datasets with imputations, we found the same probl
 
 *Note: It's important to note that, for the datasets with imputations, we had to remove the information related with Colombia and Editors' Choice for the analysis related with top-lists. We had to remove that data because the data is missing for more than three weeks.*
 
-  - Android Version, grouped by top and country, for dataset with LOCF imputation, without Colombia: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_android_version_group_co.html)
+  - Android Version, grouped by top and country, for dataset with LOCF imputation, without Colombia: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_android_version_group_co.html)
   
-  - Android Version, grouped by top and country, for dataset with LOCF imputation, without Editors' Choice: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_android_version_group_ec.html)
+  - Android Version, grouped by top and country, for dataset with LOCF imputation, without Editors' Choice: [Android Version LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_android_version_group_ec.html)
   
   
 
-- Android Version, grouped by top and country, for dataset with MFO imputation, without Colombia: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_android_version_group_co.html)
+- Android Version, grouped by top and country, for dataset with MFO imputation, without Colombia: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_android_version_group_co.html)
 
-- Android Version, grouped by top and country, for dataset with MFO imputation, without Editors' Choice: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_android_version_group_ec.html)
+- Android Version, grouped by top and country, for dataset with MFO imputation, without Editors' Choice: [Android Version MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_android_version_group_ec.html)
 
 #### What's new
 
@@ -277,9 +277,9 @@ When grouping by country, we found USA have a higher percentage of apps with des
 
 Likewise, when using the datasets with imputations, we found the same order of percentages:
 
-- What's new, grouped by country, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_whats_new_country.html)
+- What's new, grouped by country, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_whats_new_country.html)
 
-- What's new, grouped by country, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_whats_new_country.html)
+- What's new, grouped by country, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_whats_new_country.html)
 
 ##### Top-lists
 
@@ -304,15 +304,15 @@ Likewise, when using the datasets with imputations, we found the same order of p
 
 *Note: It's important to note that, for the datasets with imputations, we had to remove the information related with Colombia and Editors' Choice for the analysis related with top-lists. We had to remove that data because the data is missing for more than three weeks.*
 
-- What's new, grouped by country, for dataset with LOCF imputation, without Colombia: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_whats_new_top_co.html)
+- What's new, grouped by country, for dataset with LOCF imputation, without Colombia: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_whats_new_top_co.html)
 
-- What's new, grouped by country, for dataset with LOCF imputation, without Editors' Choice: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/LOCF_whats_new_top_ec.html)
+- What's new, grouped by country, for dataset with LOCF imputation, without Editors' Choice: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/LOCF_whats_new_top_ec.html)
 
 
 
-- What's new, grouped by country, for dataset with MFO imputation, without Colombia: [What's New MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_whats_new_top_co.html)
+- What's new, grouped by country, for dataset with MFO imputation, without Colombia: [What's New MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_whats_new_top_co.html)
 
-- What's new, grouped by country, for dataset with MFO imputation, without Editors' Choice: [What's New MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/MFO_whats_new_top_ec.html)
+- What's new, grouped by country, for dataset with MFO imputation, without Editors' Choice: [What's New MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/MFO_whats_new_top_ec.html)
 
 ##### Country and Top-lists
 
@@ -444,9 +444,9 @@ When analyzing What's New at a general level, we fount the percentage of apps wi
 
 Similarly, when using imputed data, the percentage of apps with description of changed for the last 15 weeks also decreased:
 
-- What's new, grouped by 15 weeks, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/whats_new_locf_15_week.html)
+- What's new, grouped by 15 weeks, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/whats_new_locf_15_week.html)
 
-- What's new, grouped by 15 weeks, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/whats_new_mfo_15_week.html)
+- What's new, grouped by 15 weeks, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/whats_new_mfo_15_week.html)
 
 
 Thus, we analyzed at a 10 weeks-level to found out which weeks were different, and we noticed the last 10 weeks decreased:
@@ -467,9 +467,9 @@ Thus, we analyzed at a 10 weeks-level to found out which weeks were different, a
 
 Similarly, when using imputed data, the percentage of apps with description of changed for the last 10 weeks also decreased:
 
-- What's new, grouped by 10 weeks, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/whats_new_locf_10_week.html)
+- What's new, grouped by 10 weeks, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/whats_new_locf_10_week.html)
 
-- What's new, grouped by 10 weeks, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/whats_new_mfo_10_week.html)
+- What's new, grouped by 10 weeks, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/whats_new_mfo_10_week.html)
 
 Then, we analyzed at a level of 6 weeks and observed the last 12 weeks decreased:
 
@@ -489,9 +489,9 @@ Then, we analyzed at a level of 6 weeks and observed the last 12 weeks decreased
 
 Likewise, when using imputed data, the percentage of apps with description of changed for the last 12 weeks also decreased:
 
-- What's new, grouped by 6 weeks, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/whats_new_locf_6_week.html)
+- What's new, grouped by 6 weeks, for dataset with LOCF imputation: [What's New LOCF](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/whats_new_locf_6_week.html)
 
-- What's new, grouped by 6 weeks, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/cremedelacremetop/cremedelacreme/blob/gh-pages/htmls/whats_new_mfo_6_week.html)
+- What's new, grouped by 6 weeks, for dataset with MFO imputation: [What's New MFO](https://htmlpreview.github.io/?https://github.com/TheSoftwareDesignLab/creme-de-la-creme/blob/gh-pages/htmls/whats_new_mfo_6_week.html)
 
 This behavior could be related with the importance of including description of changes, maybe it lost some importance when including apps in top charts. Thus, apps without What's New, enter to the top.
 
